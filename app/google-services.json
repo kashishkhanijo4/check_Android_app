@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "727567097593",
+    "project_id": "earn160103",
+    "storage_bucket": "earn160103.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727567097593:android:e4af6250a80893aecb4c28",
+        "android_client_info": {
+          "package_name": "com.example.earnmart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAClr6zC58IVL5WacG9U99MujdWo9mPa44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
